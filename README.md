@@ -1,2 +1,2 @@
-
-![alt text]([https://drive.google.com/file/d/19hWkDCwgMtJMQ0eAhZXEsxjc3kLVGjc4/view?usp=sharing])
+#Мини - проект: Текстовый квест "Сбежать из камеры"
+![alt text]([https://github.com/Ali-Sas/Text_Quest_Samsung_Academy/blob/main/TextQuestSamsungITAcademy/Снимок%20экрана%202024-01-31%20024353.png])
