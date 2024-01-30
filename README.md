@@ -1,2 +1,2 @@
-#Мини - проект: Тукстовый квест
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+#Мини - проект: Текстовый квест
+![alt text]([http://url/to/img.png](https://drive.google.com/file/d/19hWkDCwgMtJMQ0eAhZXEsxjc3kLVGjc4/view?usp=drive_link)https://drive.google.com/file/d/19hWkDCwgMtJMQ0eAhZXEsxjc3kLVGjc4/view?usp=drive_link)
